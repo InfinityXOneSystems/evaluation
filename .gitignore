@@ -17,3 +17,6 @@ CredentialManager/
 
 # ignore local credentials
 .credentials/
+
+__pycache__/
+.coverage
